@@ -8,8 +8,10 @@
 - 💬 Ask me about **java HTML Css Javascript C**
 
 - 📫 How to reach me **pramudithakaveen51@gmail.com**
+- find more details about me  <a href="https://kaveenpramuditha.github.io/portfolio/"> My portfolio </a>
 
 - ⚡ Fun fact **call me as kaveen**
+  
 
 [![Kaveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KAVEENPRAMUDITHA&theme=tokyonight)](https://git.io/praveenscience)
 
