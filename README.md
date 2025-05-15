@@ -44,7 +44,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="60" height="60"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="80" height="60"/> </a>
 <img src="https://img.icons8.com/?size=160&id=NfbyHexzVEDk&format=png" alt="reat" width="55" height="50"/> </a>
 <img src="https://nodejs.org/static/logos/nodejsLight.svg" alt="nodejs" width="60" height="60"/> </a></p>
 
